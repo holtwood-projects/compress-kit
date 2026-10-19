@@ -26,7 +26,7 @@ description: 使用现代 C++17 实现的经典无损压缩（熵编码）算法
 ## 快速开始
 
 ```bash
-git clone https://github.com/build-workbench/compress-kit.git
+git clone https://github.com/holtwood-projects/compress-kit.git
 cd compress-kit
 make build
 make test
@@ -45,4 +45,4 @@ make test
 - [架构概览](/architecture/) — 系统分层与二进制格式
 - [C++ API](/api/cpp) — 共享头文件与 Buffer 门面
 - [基准测试](/benchmarks/results) — 性能数据与对比
-- [更新日志](https://github.com/build-workbench/compress-kit/blob/main/CHANGELOG.md)
+- [更新日志](https://github.com/holtwood-projects/compress-kit/blob/main/CHANGELOG.md)

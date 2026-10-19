@@ -313,11 +313,11 @@ export function getHomepageContent(locale) {
       algorithms: localize({ zh: '算法' }, locale),
       quickStart: localize({ zh: '快速开始' }, locale),
     },
-    quickStartCommand: 'git clone https://github.com/build-workbench/compress-kit.git && cd compress-kit && make build && make test',
+    quickStartCommand: 'git clone https://github.com/holtwood-projects/compress-kit.git && cd compress-kit && make build && make test',
     stats: ['C++17', 'CMake'],
     navLinks: [
       { text: localize({ zh: '快速开始' }, locale), link: withLocale(locale, '/guide/getting-started') },
-      { text: 'GitHub', link: 'https://github.com/build-workbench/compress-kit' },
+      { text: 'GitHub', link: 'https://github.com/holtwood-projects/compress-kit' },
     ],
     featureCards: homepageFeatureCatalog.map(entry => ({
       id: entry.id,

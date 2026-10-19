@@ -3,7 +3,7 @@
 ## Metadata
 
 - Status: `Draft`
-- Repository: `build-workbench/compress-kit`
+- Repository: `holtwood-projects/compress-kit`
 - Capability: `lzss`（新增）；继承 `binary-formats` 契约
 - Task IDs: `CK-LZSS-001`, `CK-LZSS-002`, `CK-LZSS-003`, `CK-LZSS-004`
 

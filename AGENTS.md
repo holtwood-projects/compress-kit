@@ -3,7 +3,7 @@
 ## Project Identity
 
 - Product: **CompressKit** - C++17 compression laboratory
-- Repository: `build-workbench/compress-kit`
+- Repository: `holtwood-projects/compress-kit`
 - Default branch: `main`
 
 ## Core Contract
