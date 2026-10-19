@@ -21,7 +21,7 @@ concurrency:
 
 jobs:
   deploy:
-    if: github.repository == 'build-workbench/compress-kit'
+    if: github.repository == 'holtwood-projects/compress-kit'
     runs-on: ubuntu-latest
     timeout-minutes: 35
     environment:
