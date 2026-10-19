@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/build-workbench/compress-kit/actions/workflows/ci.yml"><img src="https://github.com/build-workbench/compress-kit/actions/workflows/ci.yml/badge.svg" alt="CI Status"></a>
+  <a href="https://github.com/holtwood-projects/compress-kit/actions/workflows/ci.yml"><img src="https://github.com/holtwood-projects/compress-kit/actions/workflows/ci.yml/badge.svg" alt="CI Status"></a>
   <a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/badge/License-MIT-green.svg" alt="License"></a>
 </p>
 
@@ -17,7 +17,7 @@ CompressKit covers **Huffman coding, Arithmetic Coding, Range Coding, RLE and LZ
 
 Zero external dependencies, implemented purely with the modern C++ standard library.
 
-📖 **Online documentation**: <https://build-workbench.github.io/compress-kit/>
+📖 **Online documentation**: <https://holtwood-projects.github.io/compress-kit/>
 
 The documentation site contains algorithm details, the binary format specification, API references and interactive benchmark charts. For local preview:
 
@@ -50,7 +50,7 @@ All command-line tools follow:
 ## Quick Start
 
 ```bash
-git clone https://github.com/build-workbench/compress-kit.git
+git clone https://github.com/holtwood-projects/compress-kit.git
 cd compress-kit
 
 make build
@@ -90,7 +90,7 @@ tests/              # 测试语料生成与 CLI smoke 测试
 
 ## License
 
-[MIT License](LICENSE) · Copyright © 2026 build-workbench
+[MIT License](LICENSE) · Copyright © 2026 holtwood-projects
 
 ---
 
@@ -104,7 +104,7 @@ tests/              # 测试语料生成与 CLI smoke 测试
 </p>
 
 <p align="center">
-  <a href="https://github.com/build-workbench/compress-kit/actions/workflows/ci.yml"><img src="https://github.com/build-workbench/compress-kit/actions/workflows/ci.yml/badge.svg" alt="CI Status"></a>
+  <a href="https://github.com/holtwood-projects/compress-kit/actions/workflows/ci.yml"><img src="https://github.com/holtwood-projects/compress-kit/actions/workflows/ci.yml/badge.svg" alt="CI Status"></a>
   <a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/badge/许可证-MIT-green.svg" alt="License"></a>
 </p>
 
@@ -112,7 +112,7 @@ CompressKit 涵盖 **Huffman 编码、算术编码 (Arithmetic Coding)、区间�
 
 零外部依赖，纯现代 C++ 标准库实现。
 
-📖 **在线文档**：<https://build-workbench.github.io/compress-kit/>
+📖 **在线文档**：<https://holtwood-projects.github.io/compress-kit/>
 
 文档站包含算法详解、二进制格式规范、API 参考与交互式基准测试图表。如需本地预览：
 
@@ -145,7 +145,7 @@ cd docs && npm ci && npm run dev
 ## 快速开始
 
 ```bash
-git clone https://github.com/build-workbench/compress-kit.git
+git clone https://github.com/holtwood-projects/compress-kit.git
 cd compress-kit
 
 make build
@@ -185,4 +185,4 @@ tests/              # 测试语料生成与 CLI smoke 测试
 
 ## 许可证
 
-[MIT 许可证](LICENSE) · 版权所有 © 2026 build-workbench
+[MIT 许可证](LICENSE) · 版权所有 © 2026 holtwood-projects
