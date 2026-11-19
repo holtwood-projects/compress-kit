@@ -107,7 +107,7 @@ zstd/gzip 的 LZ77 字典能捕获这种结构，这正是 1977 年 Lempel-Ziv �
 0.37-0.40——它们的 LZ/BWT 结构捕获了 FASTQ 中 `@read_N` 行与质量字符串
 的重复模式。ck-lzss（0.553）能捕获部分结构但仍落后于纯熵编码（0.453）：
 这个语料的 read 间冗余有限，flag 开销超过匹配收益——真实测序数据（如
-[fq-compressor](https://github.com/open-genomics/fq-compressor) 面向的
+[fq-compressor](https://github.com/holtwood-genomics/fq-compressor) 面向的
 FASTQ）有更强的 read 间冗余，现代压缩器的优势只会更大，这也是为什么
 生信压缩需要专用算法（参考序列 + 熵编码），而不是裸 LZ。
 
