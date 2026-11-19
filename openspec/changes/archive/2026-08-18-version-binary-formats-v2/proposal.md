@@ -3,7 +3,7 @@
 ## Metadata
 
 - Status: `Archived`
-- Repository: `holtwood-genomics/compress-kit`
+- Repository: `holtwood-projects/compress-kit`
 - Audit base: `aa6472604fe25e567fa4fe56f31c3baf2b3577a6`
 - Capability: `binary-formats`
 - Task IDs: `CK-DOC-001`, `CK-FMT-001`, `CK-TEST-001`, `ORG-GOV-001`, `ORG-CONTRACT-001`
